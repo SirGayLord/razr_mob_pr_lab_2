@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    <!-- Фон кнопки -->
+    <solid android:color="#23541f"/>
+    <!-- Граница кнопки -->
+    <stroke
+        android:width="4dp"
+        android:color="#505050"/><!-- Цвет границы -->
+
+    <!-- Скругленные углы -->
+    <corners android:radius="24dp" />  <!-- Радиус скругления углов -->
+</shape>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Laba2Mobile</string>
+    <string name="btn1_text">Button1</string>
+    <string name="btn2_text">Button2</string>
+    <string name="btn3_text">Button3</string>
+    <string name="btn4_text">Button4</string>
+    <string name="btn5_text">Button5</string>
+    <string name="btn6_text">Button6</string>
+    <string name="btn7_text">Button7</string>
+    <string name="btnLeftTop">Left 50%</string>
+    <string name="btnRightTop">Right 50%</string>
+    <string name="btnLeftCenter">Center_left</string>
+    <string name="btnRightCenter">Center_right</string>
+    <string name="btnCenter">Center</string>
+    <string name="btnBottom">Bottom</string>
+    <string name="btnNewButton">New Button</string>
+</resources>

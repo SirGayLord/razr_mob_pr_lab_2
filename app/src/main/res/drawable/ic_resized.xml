@@ -1,0 +1,9 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/free_icon_android_226770"
+            android:gravity="center"
+            android:width="56px"
+            android:height="56px"/>
+    </item>
+</layer-list>
